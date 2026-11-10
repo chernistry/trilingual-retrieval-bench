@@ -1,0 +1,4 @@
+{"q": "сколько стоит коронка на зуб 36", "lang": "ru", "expect": ["corpus/ru/b03-dental-quote.md"], "kind": "amount"}
+{"q": "Hepatitis B third dose date Dana", "lang": "en", "expect": ["corpus/en/b03-vaccination-record.md"], "kind": "date"}
+{"q": "מי הרופאה שהפנתה לבדיקת אלרגיה", "lang": "he", "expect": ["corpus/he/b03-allergy-test.md"], "kind": "fact"}
+{"q": "сколько сеансов физиотерапии разрешено по направлению", "lang": "ru", "expect": ["corpus/he/b03-physio-referral.md"], "kind": "fact"}

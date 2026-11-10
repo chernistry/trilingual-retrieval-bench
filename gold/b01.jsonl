@@ -1,0 +1,4 @@
+{"q": "насколько может вырасти аренда при продлении договора", "lang": "ru", "expect": ["corpus/ru/b01-dogovor-arendy-herzl.md"], "kind": "fact"}
+{"q": "when is the plumber coming to fix the kitchen tap", "lang": "en", "expect": ["corpus/en/b01-landlord-repairs-letter.md"], "kind": "date"}
+{"q": "сколько платить за потребление воды в доме Нетания", "lang": "ru", "expect": ["corpus/he/b01-sechirut-heshbon-mayim.md"], "kind": "amount"}
+{"q": "מה סכום ההחזר של הפיקדון אחרי הניכויים בפינוי", "lang": "he", "expect": ["corpus/en/b01-move-out-inspection.md"], "kind": "amount"}

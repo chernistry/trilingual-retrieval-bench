@@ -1,0 +1,4 @@
+{"q": "сколько гарантия на двигатель и коробку по договору", "lang": "ru", "expect": ["corpus/ru/b08-dogovor-kupli-prodazhi-avto.md"], "kind": "fact"}
+{"q": "when does the electricity supplier switch take effect", "lang": "en", "expect": ["corpus/en/b08-electricity-switch-confirmation.md"], "kind": "date"}
+{"q": "how much is the annual resident parking permit fee", "lang": "en", "expect": ["corpus/en/b08-resident-parking-permit.md"], "kind": "amount"}
+{"q": "сколько стоил ремонт машины Нои в мастерской Дерех а-ям", "lang": "ru", "expect": ["corpus/he/b08-heshbonit-musach.md"], "kind": "amount"}

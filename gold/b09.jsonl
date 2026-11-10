@@ -1,0 +1,4 @@
+{"q": "сколько стоит годовой отчёт у бухгалтера", "lang": "ru", "expect": ["corpus/ru/b09-pismo-buhgalter-usloviya.md"], "kind": "amount"}
+{"q": "when did the TermBase subscription end", "lang": "en", "expect": ["corpus/en/b09-software-subscriptions-2025.md"], "kind": "date"}
+{"q": "с какой даты я зарегистрирована как освобождённый дилер", "lang": "ru", "expect": ["corpus/he/b09-ishur-osek-patur.md"], "kind": "date"}
+{"q": "which invoice for the tea cooperative is still unpaid", "lang": "en", "expect": ["corpus/en/b09-invoice-2025-015.md"], "kind": "fact"}

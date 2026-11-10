@@ -1,0 +1,4 @@
+{"q": "откуда взялась переплата по взносам в Битуах Леуми", "lang": "ru", "expect": ["corpus/ru/b04-bituach-leumi-status.md"], "kind": "amount"}
+{"q": "what is the passport fee for five years", "lang": "en", "expect": ["corpus/en/b04-passport-renewal-checklist.md"], "kind": "amount"}
+{"q": "до какого числа надо обновить права в Беэр-Шеве, срок 12 ноября", "lang": "ru", "expect": ["corpus/he/b04-driver-license-renewal.md"], "kind": "date"}
+{"q": "מה סכום ההנחה על ארנונה בהחלטת העירייה", "lang": "he", "expect": ["corpus/ru/b04-arnona-skidka-reshenie.md"], "kind": "amount"}

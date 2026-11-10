@@ -1,0 +1,4 @@
+{"q": "какой ежемесячный платёж по займу на технику и ремонт кухни", "lang": "ru", "expect": ["corpus/ru/b05-kreditnyj-dogovor.md"], "kind": "amount"}
+{"q": "until when is the mortgage approval valid before extension", "lang": "en", "expect": ["corpus/en/b05-mortgage-preapproval.md"], "kind": "date"}
+{"q": "какая франшиза по каско у Ноа Барак", "lang": "ru", "expect": ["corpus/he/b05-polisat-bituach-rechev.md"], "kind": "amount"}
+{"q": "how many days to dispute a card charge", "lang": "en", "expect": ["corpus/en/b05-credit-card-statement.md"], "kind": "howto"}

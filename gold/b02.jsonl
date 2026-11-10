@@ -1,0 +1,4 @@
+{"q": "какая сумма чистыми за март по расчётному листку Игоря", "lang": "ru", "expect": ["corpus/ru/b02-raschetnyj-listok-2025-03.md"], "kind": "amount"}
+{"q": "pension projected monthly benefit at age 67 Dana", "lang": "en", "expect": ["corpus/en/b02-pension-annual-statement-2025.md"], "kind": "amount"}
+{"q": "сколько шекелей доплатит работодатель Ноа при увольнении по сокращению", "lang": "ru", "expect": ["corpus/he/b02-michtav-piturim-pitzuim.md"], "kind": "amount"}
+{"q": "when did Dana leave Carmel Logistics and why", "lang": "en", "expect": ["corpus/en/b02-employer-reference-letter.md"], "kind": "date"}

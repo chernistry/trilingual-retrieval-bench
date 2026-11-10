@@ -1,0 +1,4 @@
+{"q": "сколько стоят учебники в ульпане Шарон-Ям", "lang": "ru", "expect": ["corpus/ru/b07-ulpan-zapis.md"], "kind": "amount"}
+{"q": "when is the Beersheba immigrant certificate appointment", "lang": "en", "expect": ["corpus/en/b07-ministry-appointment.md"], "kind": "date"}
+{"q": "monthly rental assistance amount for Noa Barkai-Stein", "lang": "en", "expect": ["corpus/en/b07-rental-note.md"], "kind": "amount"}
+{"q": "когда вторая выплата корзины абсорбции семье Мизрахи-Авиталь", "lang": "ru", "expect": ["corpus/he/b07-basket-schedule.md"], "kind": "date"}

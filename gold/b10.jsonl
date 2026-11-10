@@ -1,0 +1,4 @@
+{"q": "сколько стоил ужин в ресторане Рифы в Эйлате", "lang": "ru", "expect": ["corpus/ru/b10-hotel-invoice-eilat.md"], "kind": "amount"}
+{"q": "when is the final balance due for the wedding venue", "lang": "en", "expect": ["corpus/en/b10-wedding-venue-contract.md"], "kind": "date"}
+{"q": "сколько платить за годовой кружок шахмат в общинном центре", "lang": "ru", "expect": ["corpus/he/b10-community-center-registration.md"], "kind": "amount"}
+{"q": "how many days can I freeze my Harbor Peak gym plan", "lang": "en", "expect": ["corpus/en/b10-gym-membership-contract.md"], "kind": "fact"}

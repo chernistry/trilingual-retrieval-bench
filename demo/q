@@ -1,0 +1,13 @@
+#!/bin/zsh
+# demo helper: prints the query the way a user would type it, then runs it on the synthetic table.
+# Hebrew queries are left out of the recording: the terminal renders Hebrew mirrored (no bidi).
+export KB_TABLE=chunks_synth LANG=en_US.UTF-8
+case "$1" in
+  1) q='какой залог в договоре аренды' ;;
+  2) q='кто перевел диплом Даны Леви-Коэн' ;;
+  3) q='What is the adjusted annual arnona charge for Dana Levi-Cohen?' ;;
+esac
+print -n "\e[1A\e[2K"
+print -P "%F{green}❯%f kb \"$q\""
+"${KB:?set KB to the search engine directory}"/kb -k 3 --chars 70 "$q" 2>/dev/null | sed -E 's#^( *[0-9]+\. [0-9.]+) .*/corpus/#\1  #; s/:1 - [a-z0-9 ]+ >/ ·/'
+print -P "%F{240}────────────────────────────────────────%f"

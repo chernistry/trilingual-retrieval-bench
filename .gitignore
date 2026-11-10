@@ -1,0 +1,6 @@
+.kb/
+*.lance
+out/
+gold/all.jsonl
+__pycache__/
+.pytest_cache/

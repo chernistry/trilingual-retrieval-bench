@@ -1,0 +1,4 @@
+{"q": "сколько стоит продлённый день в месяц с обедом", "lang": "ru", "expect": ["corpus/ru/b06-afterschool-contract.md"], "kind": "amount"}
+{"q": "when is the grade 4 Negev trip payment deadline", "lang": "en", "expect": ["corpus/en/b06-school-trip-letter.md"], "kind": "date"}
+{"q": "сколько стоит отмена шиура меньше чем за 10 часов", "lang": "ru", "expect": ["corpus/he/b06-tutoring-agreement-he.md"], "kind": "amount"}
+{"q": "how often can paracetamol be given to Adam Peretz", "lang": "en", "expect": ["corpus/en/b06-pediatrician-summary.md"], "kind": "howto"}
