@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chernistry/trilingual-retrieval-bench/main/assets/brand/trilingual-retrieval-bench-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chernistry/trilingual-retrieval-bench/main/assets/brand/trilingual-retrieval-bench-header-light.svg">
+  <img alt="trilingual-retrieval-bench: Synthetic Russian, English and Hebrew document corpus with gold queries for retrieval checks, plus a text scrubber." src="https://raw.githubusercontent.com/chernistry/trilingual-retrieval-bench/main/assets/brand/trilingual-retrieval-bench-header-light.svg">
+</picture>
+
 # Andantino: synthetic corpus and retrieval quality gate
 
 A synthetic document corpus in Russian, English and Hebrew, with gold queries and
